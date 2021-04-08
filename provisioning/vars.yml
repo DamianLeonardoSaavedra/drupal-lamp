@@ -1,0 +1,12 @@
+---
+# El path donde Drupal sera descargado e instalado.
+drupal_core_path: "/var/www/drupal"
+
+# El dominio resultante sera [domain].test (con .test adjuntado).
+domain: "drupal"
+
+# El nombre del sitio Drupal.
+drupal_site_name: "Drupal Test"    
+
+
+                                                                
